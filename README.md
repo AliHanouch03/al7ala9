@@ -39,7 +39,7 @@
 ## 🧪 Running Locally
 
 ```bash
-git clone https://github.com/yourusername/qassari.git
-cd qassari
+git clone https://github.com/yourusername/al7ala9.git
+cd al7ala9
 npm install
 npm run dev
