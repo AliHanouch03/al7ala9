@@ -1,3 +1,5 @@
+## AI Coded
+
 # ✂️ Al7ala9 – Your Personal Barber, Anywhere
 
 **Al7ala9** is a smart and culturally-aware barber/hairdresser booking platform built for users who value time, convenience, and high-quality grooming. Whether you're preparing for **Eid**, a **wedding**, or just want a fresh look on **Friday**, Qassari makes it easy to find and book a trusted professional, either at home or at a local salon.
